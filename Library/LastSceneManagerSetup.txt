@@ -1,0 +1,5 @@
+sceneSetups:
+- path: C:/Users/asge0861/Documents/Unity Projects/Dank Dungeons/Dank Dungeons/Assets/Scenes/Test
+    Scene.unity
+  isLoaded: 1
+  isActive: 1
